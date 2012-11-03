@@ -9,7 +9,7 @@ notation. That is, this program converts
 
 to 
 
-![example.png](example.png)
+![example.png](//github.com/btbytes/pywsd/example.png)
 
 
 ## Typical Usage
