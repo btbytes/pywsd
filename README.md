@@ -56,6 +56,8 @@ With a `Makefile` (because makefiles rock):
 
 	clean-all:
 		rm -f $(PNGS)
+		
+	.PHONY: clean-all
 
 
 Thanks to [WebSequnceDiagrams.com](http://www.websequencediagrams.com/) for making such a handy and intuitive tool available for free on the web. 
