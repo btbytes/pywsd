@@ -1,0 +1,2 @@
+alice->bob: authentication request
+bob-->alice: response
